@@ -9,6 +9,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello(){
-        return "Hello CloudGurus ! Cheers!";
+        return "Message From HelloContainer....";
     }
 }
